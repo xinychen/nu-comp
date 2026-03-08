@@ -26,6 +26,7 @@ Here are some important topics covered in this course:
 - Introduction to Python programming. How to perform numerical computations in Python with **NumPy**?
 - Higher-order **Taylor series approximation**: Any smooth function can be approximated by a polynomial.
 - **Newton-Raphson iteration formula** from a Taylor series. The **rate of convergence** in Newton-Raphson method is **quadratic**.
+- Intuitive understanding of **linear**, **superlinear**, and **quadratic** convergence.
 - Intuitive understanding of **linear transformation**, **determinants**, and **inverse** of matrix. **Cramer's rule** and **Gauss elimination** for solving a system of linear equations (e.g., $2\times 2$ and $3\times 3$ matrices).
 
 <br>
