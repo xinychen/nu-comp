@@ -9,7 +9,7 @@
 - 🦉 [[Slides](https://xinychen.github.io/CGN3405/w5.pdf)] Modeling and errors
 - 🦉 [[Slides](https://xinychen.github.io/CGN3405/w7.pdf)] Nonlinear equations
 - 🦉 [[Slides](https://xinychen.github.io/CGN3405/w8.pdf)] Introduction to applied linear algebra: Part I
-- 🦉 Introduction to applied linear algebra: Part II
+- 🦉 [[Slides](https://xinychen.github.io/CGN3405/w9.pdf)] Introduction to applied linear algebra: Part II
 - 🦉 Linear algebraic equations
 - 🦉 Ordinary differential equations
 - 🦉 Optimization techniques: Part I
