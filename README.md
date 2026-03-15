@@ -23,8 +23,26 @@
 Here are some important topics covered in this course:
 
 - The simplest numerical technique "**Euler's method**" used to solve **ordinary differential equations (ODEs)**. Application to engineering problems, e.g., bungee jumping velocity and cantilever beam deflection.
+
+<p align = "center">
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/bungee1.png" width = "400" />
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/beam1.png" width = "400" />
+</p>
+
 - Introduction to Python programming. How to perform numerical computations in Python with **NumPy**?
+
+<p align = "center">
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/code1.png" width = "400" />
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/code2.png" width = "400" />
+</p>
+
 - Higher-order **Taylor series approximation**: Any smooth function can be approximated by a polynomial.
+
+<p align = "center">
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/taylor1.png" width = "400" />
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/taylor2.png" width = "400" />
+</p>
+
 - **Newton-Raphson iteration formula** from a Taylor series. The **rate of convergence** in Newton-Raphson method is **quadratic**.
 - Intuitive understanding of **linear**, **superlinear**, and **quadratic** convergence.
 - Intuitive understanding of **linear transformation**, **determinants**, and **inverse** of matrix. **Cramer's rule** and **Gauss elimination** for solving a system of linear equations (e.g., $2\times 2$ and $3\times 3$ matrices).
