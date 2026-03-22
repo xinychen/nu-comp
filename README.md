@@ -10,7 +10,7 @@
 - 🦉 [[Slides](https://xinychen.github.io/CGN3405/w7.pdf)] Nonlinear equations
 - 🦉 [[Slides](https://xinychen.github.io/CGN3405/w8.pdf)] Introduction to applied linear algebra: Part I
 - 🦉 [[Slides](https://xinychen.github.io/CGN3405/w9.pdf)] Introduction to applied linear algebra: Part II
-- 🦉 Linear algebraic equations
+- 🦉 [[Slides](https://xinychen.github.io/CGN3405/w10.pdf)] Linear algebraic equations
 - 🦉 Ordinary differential equations
 - 🦉 Optimization techniques: Part I
 - 🦉 Optimization techniques: Part II
@@ -50,8 +50,26 @@ Here are some important topics covered in this course:
 <br>
 
 - **Newton-Raphson iteration formula** from a Taylor series. The **rate of convergence** in Newton-Raphson method is **quadratic**.
+
+<p align = "center">
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/newton1.png" width = "400" />
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/newton2.png" width = "400" />
+</p>
+
+<br>
+
 - Intuitive understanding of **linear**, **superlinear**, and **quadratic** convergence.
-- Intuitive understanding of **linear transformation**, **determinants**, and **inverse** of matrix. **Cramer's rule** and **Gauss elimination** for solving a system of linear equations (e.g., $2\times 2$ and $3\times 3$ matrices).
+
+<p align = "center">
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/convergence1.png" width = "400" />
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/convergence2.png" width = "400" />
+</p>
+
+<br>
+
+- Intuitive understanding of **linear transformation**, **determinants**, and **inverse** of matrix ($2\times 2$ and $3\times 3$ matrices). **Cramer's rule** and **Gauss elimination** for solving a system of linear equations (e.g., $2\times 2$ and $3\times 3$ matrices).
+- Understanding **orthogonal matrix** and its properties. How to use **LU decomposition** to solve linear systems?
+- What are ill-conditioned or well-conditioned systems? **Condition number** is a measure of how sensitive a linear system is to these small errors.
 
 <br>
 
