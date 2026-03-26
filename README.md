@@ -70,6 +70,15 @@ Here are some important topics covered in this course:
 - Intuitive understanding of **linear transformation**, **determinants**, and **inverse** of matrix ($2\times 2$ and $3\times 3$ matrices). **Cramer's rule** and **Gauss elimination** for solving a system of linear equations (e.g., $2\times 2$ and $3\times 3$ matrices).
 - Understanding **orthogonal matrix** and its properties. How to use **LU decomposition** to solve linear systems?
 - What are ill-conditioned or well-conditioned systems? **Condition number** is a measure of how sensitive a linear system is to these small errors.
+- Numerical methods: Solving linear system $Ax=b$ iteratively with **Gauss-Seidel** method and **conjugate gradient** method.
+
+<p align = "center">
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/cg1.png" width = "400" />
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/cg2.png" width = "400" />
+</p>
+
+<br>
+
 
 <br>
 
