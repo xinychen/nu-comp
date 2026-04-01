@@ -11,7 +11,7 @@
 - 🦉 [[Slides](https://xinychen.github.io/CGN3405/w8.pdf)] Introduction to applied linear algebra: Part I
 - 🦉 [[Slides](https://xinychen.github.io/CGN3405/w9.pdf)] Introduction to applied linear algebra: Part II
 - 🦉 [[Slides](https://xinychen.github.io/CGN3405/w10.pdf)] Linear algebraic equations
-- 🦉 Ordinary differential equations
+- 🦉 [[Slides](https://xinychen.github.io/CGN3405/w11.pdf)] Ordinary differential equations
 - 🦉 Optimization techniques: Part I
 - 🦉 Optimization techniques: Part II
 - 🦉 Curve fitting
