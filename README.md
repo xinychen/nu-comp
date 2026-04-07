@@ -79,6 +79,12 @@ Here are some important topics covered in this course:
 
 <br>
 
+- **Linear programming**: Linear objective function & linear equality/inequality constraints.
+
+<p align = "center">
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/linear1.png" width = "400" />
+<img align = "middle" src = "https://github.com/xinychen/nu-comp/blob/main/graphics/linear2.png" width = "400" />
+</p>
 
 <br>
 
