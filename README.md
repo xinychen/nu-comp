@@ -13,8 +13,8 @@
 - 🦉 [[Slides](https://xinychen.github.io/CGN3405/w10.pdf)] Linear algebraic equations
 - 🦉 [[Slides](https://xinychen.github.io/CGN3405/w11.pdf)] Ordinary differential equations
 - 🦉 [[Slides](https://xinychen.github.io/CGN3405/w12.pdf)] Optimization techniques: Part I
-- 🦉 Optimization techniques: Part II
-- 🦉 Curve fitting
+- 🦉 [[Slides](https://xinychen.github.io/CGN3405/w13.pdf)] Optimization techniques: Part II
+- 🦉 [[Slides](https://xinychen.github.io/CGN3405/w14.pdf)] Curve fitting
 
 <br>
 
