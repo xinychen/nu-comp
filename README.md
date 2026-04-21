@@ -18,6 +18,13 @@
 
 <br>
 
+### YouTube Channel
+
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/Wt8oSh26BY8) [[Slides](https://xinychen.github.io/youtube/linprog.pdf)] Linear programming for beginners
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/yuGaGCoEP9E) [[Slides](https://xinychen.github.io/youtube/quadprog.pdf)] Quadratic programming for beginners
+
+<br>
+
 ### Topics
 
 Here are some important topics covered in this course:
