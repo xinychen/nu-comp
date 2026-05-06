@@ -22,6 +22,8 @@
 
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/Wt8oSh26BY8) [[Slides](https://xinychen.github.io/youtube/linprog.pdf)] Linear programming for beginners
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/yuGaGCoEP9E) [[Slides](https://xinychen.github.io/youtube/quadprog.pdf)] Quadratic programming for beginners
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/HCaT9PT16i4) [[Slides](https://xinychen.github.io/youtube/miqp.pdf)] Mixed-integer quadratic programming for beginners
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/FXJI2ydQzCY) [[Slides](https://xinychen.github.io/youtube/pdmat.pdf)] The geometry of quadratic functions
 
 <br>
 
